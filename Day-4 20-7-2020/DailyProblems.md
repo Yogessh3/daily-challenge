@@ -2,8 +2,8 @@
 
 ### Problems
 
-1) 2 Sum Pproblem
-2) 4 Sum Pproblem
+1) 2 Sum Problem
+2) 4 Sum Problem
 3) Longest Consecutive Subsequence
 4) Longest Subarray with 0 sum
 5) Count number of subarrays with given XOR
